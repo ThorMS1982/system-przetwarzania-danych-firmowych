@@ -14,7 +14,8 @@ UPDATE_1 :
 Dodalem automatyczny raport statystyczny, który odpowiada na pytania managementu:
   - ile rekordów było poprawnych
   - ile było błędnych
-jaka jest:
+    
+Jaka jest:
     suma sprzedaży
     średnia kwota sprzedaży
 
