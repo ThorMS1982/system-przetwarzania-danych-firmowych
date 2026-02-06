@@ -1,7 +1,7 @@
-firma dostaje dane (pliki)
+Firma dostaje dane (pliki)
   - dane są brudne / niespójne
 
-program musi:
+Program musi:
   - je sprawdzić
   - przefiltrować
   - wygenerować raport
