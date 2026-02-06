@@ -16,6 +16,6 @@ Dodalem automatyczny raport statystyczny, który odpowiada na pytania management
   - ile było błędnych
     
 Jaka jest:
-    suma sprzedaży
-    średnia kwota sprzedaży
+  - suma sprzedaży
+  - średnia kwota sprzedaży
 
