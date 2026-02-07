@@ -19,3 +19,13 @@ Jaka jest:
   - suma sprzedaży
   - średnia kwota sprzedaży
 
+UPDATE_2 :
+Z clean_records stworzylem DataFrame pandas
+Zrobilem agregacje per kraj:
+  - suma sprzedaży
+  - średnia sprzedaży
+  - liczba poprawnych rekordów
+
+Zapisalem wynik do Excel .xlsx
+Zrobilem wykres słupkowy sprzedaży per kraj i zapis do pliku PNG
+
